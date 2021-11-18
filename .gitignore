@@ -3,5 +3,5 @@ pyserini_ranking/kaggle.json
 pyserini_ranking/indexes
 pyserini_ranking/documents
 pyserini_ranking/queries
+pyserini_ranking/rankings
 pyterrier_deep_learning/toydocs_index
-
